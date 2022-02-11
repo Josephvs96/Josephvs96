@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sweden!</h3>
 
-- 🔭 I’m currently working on [DotNetBanky](https://github.com/Josephvs96/DotNetBanky)
+- 🔭 I’m currently working on creating a system for managing a shopping list and a way to automate the process 
 
-- 🌱 I’m currently learning **Backend programming using ASP.net and Angular**
+- 🌱 I’m currently learning **Mobile development with React Native**
 
 - 👨‍💻 All of my projects are available at [https://josephvs96.github.io/home](https://josephvs96.github.io/home)
 
